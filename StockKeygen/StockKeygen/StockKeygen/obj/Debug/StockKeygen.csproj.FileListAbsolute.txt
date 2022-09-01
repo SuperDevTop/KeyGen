@@ -1,0 +1,11 @@
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\bin\Debug\StockKeygen.exe.config
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\bin\Debug\StockKeygen.exe
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\bin\Debug\StockKeygen.pdb
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.csproj.AssemblyReference.cache
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.csproj.SuggestedBindingRedirects.cache
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.Form1.resources
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.Properties.Resources.resources
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.csproj.GenerateResource.cache
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.csproj.CoreCompileInputs.cache
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.exe
+D:\Rizal\StockKeygen\StockKeygen\StockKeygen\obj\Debug\StockKeygen.pdb
